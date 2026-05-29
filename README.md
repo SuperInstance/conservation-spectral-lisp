@@ -73,3 +73,5 @@ The conservation ratio α(G,a) = (a^T L a) / (λ_max ‖a‖²) is normally comp
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
